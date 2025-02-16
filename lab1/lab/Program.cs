@@ -28,7 +28,7 @@ namespace lab
             Calc calculator = new Calc();
 
             // Заголовок таблицы
-            Console.WriteLine($"{"x",-10} {"f(x)",-10} {"y",-10} {"g(y)",-10}");
+            Console.WriteLine($"{"x",-10} {"y",-10} {"f",-10} {"g",-10}");
 
             // Вычисление и вывод значений
             for (double x = xn; x <= xk; x += h)
@@ -36,15 +36,12 @@ namespace lab
                 double fx = calculator.Calculate_f(x, xk, yn, yk, n, t); // Вызов метода
                 for (double y = yn; y <= yk; y += t)
                 {
-                    double gy = CalculateG(y); // Нужно определить CalculateG
-                    Console.WriteLine($"{x,-10:F2} {fx,-10:F2} {y,-10:F2} {gy,-10:F2}");
+                    double gy = calculator.Calculate_g(x, xk, yn, yk, n, t); // Нужно определить CalculateG
+                    Console.WriteLine($"{x,-10:F2} {x,-10:F2} {fx,-10:F2} {gy,-10:F2}");
                 }
             }
         }
 
-        static double CalculateG(double y)
-        {
-            return Math.Sqrt(y); // Пример вычисления для g(y)
-        }
+
     }
 }
