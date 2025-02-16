@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 
 namespace lab
 {
@@ -6,42 +7,69 @@ namespace lab
     {
         static void Main(string[] args)
         {
-            // Ввод параметров
-            Console.WriteLine("Введите xn и xk (через пробел):");
-            string[] xParams = Console.ReadLine().Split();
-            double xn = double.Parse(xParams[0]);
-            double xk = double.Parse(xParams[1]);
+            menu _menu = new menu(); // Instantiate the menu class once
 
-            Console.WriteLine("Введите yn и yk (через пробел):");
-            string[] yParams = Console.ReadLine().Split();
-            double yn = double.Parse(yParams[0]);
-            double yk = double.Parse(yParams[1]);
-
-            Console.WriteLine("Введите количество частей (n):");
-            int n = int.Parse(Console.ReadLine());
-
-            // Вычисление шагов
-            double h = (xk - xn) / n;
-            double t = (yk - yn) / n;
-
-            // Создание экземпляра класса Calc
-            Calc calculator = new Calc();
-
-            // Заголовок таблицы
-            Console.WriteLine($"{"x",-10} {"y",-10} {"f",-10} {"g",-10}");
-
-            // Вычисление и вывод значений
-            for (double x = xn; x <= xk; x += h)
+            while (true) // Infinite loop to keep prompting until the user decides to exit
             {
-                double fx = calculator.Calculate_f(x, xk, yn, yk, n, t); // Вызов метода
-                for (double y = yn; y <= yk; y += t)
+                // Display the main menu
+                Console.WriteLine("МЕНЮ");
+                Console.WriteLine("Пункт 1: Вычисление функций.");
+                Console.WriteLine("Пункт 2: Работа с массивами.");
+
+                string? choose = Console.ReadLine();
+
+                switch (choose)
                 {
-                    double gy = calculator.Calculate_g(x, xk, yn, yk, n, t); // Нужно определить CalculateG
-                    Console.WriteLine($"{x,-10:F2} {x,-10:F2} {fx,-10:F2} {gy,-10:F2}");
+                    case "1":
+                        _menu.Func(); // Call the Func method when the user chooses option 1
+                        break;
+                    case "2":
+                        while (true) // Inner loop for array operations
+                        {
+                            Console.WriteLine("Выберите пункт:");
+                            Console.WriteLine("1. Вектор 1:");
+                            Console.WriteLine("2. Вектор 2:");
+                            Console.WriteLine("3. Матрица:");
+
+                            string? choose_mass = Console.ReadLine();
+                            switch (choose_mass)
+                            {
+                                case "1":
+                                    try
+                                    {
+                                        Console.WriteLine("Вы выбрали Вектор 1.");
+                                        int n = _menu.enter_n();
+                                        int[] a = new int[n];
+                                        a = _menu.enter_vector(n);
+                                        int c = _menu.vector_1(n, a);
+                                        Console.WriteLine($"Минимальное положительное значение: {c}");
+                                    }
+                                    catch (menu.NoPositiveElementEx ex)
+                                    {
+                                        Console.WriteLine("Нету положительных элементов в векторе.");
+                                    }
+                                    break;
+                                case "2":
+                                    Console.WriteLine("Вы выбрали Вектор 2.");
+                                    // Add additional functionality for Вектор 2 here
+                                    break;
+                                case "3":
+                                    Console.WriteLine("Вы выбрали Матрицу.");
+                                    // Add additional functionality for Матрица here
+                                    break;
+                                default:
+                                    Console.WriteLine("Некорректный выбор. Повторите попытку.");
+                                    continue; // Continue prompting for the correct choice
+                            }
+                            // After a valid selection, break out of the inner loop
+                            break;
+                        }
+                        break; // Exit the outer switch case for option 2
+                    default:
+                        Console.WriteLine("Некорректный выбор. Повторите попытку.");
+                        break; // Continue the outer loop to prompt again
                 }
             }
         }
-
-
     }
 }

@@ -4,79 +4,53 @@ namespace lab
 {
     public class Calc
     {
-        public double Calculate_f(double xn, double xk, double yn, double yk, double n, double t)
+        public double Calculate_f(double x, double y)
         {
-            // Проверка входных параметров
-            if (n <= 0 || t <= 0)
+            if (x * y < 2)
             {
-                throw new ArgumentOutOfRangeException("Шаги n и t должны быть положительными.");
+                return Math.Sin(x) + Math.Cos(y);
             }
-
-            for (double i = xn; i < xk; i += n)
+            else if (x * y == 2)
             {
-                for (double j = yn; j < yk; j += t)
+                if (1 + x == 0)
                 {
-                    if (i * j < 2)
-                    {
-                        return Math.Sin(i) + Math.Cos(j);
-                    }
-                    else if (i * j == 2)
-                    {
-                        if (1 + i == 0) // Проверка на деление на ноль
-                        {
-                            throw new DivideByZeroException("Деление на ноль в выражении для f при i * j == 2.");
-                        }
-                        return (i * i + 24) / Math.Pow((1 + i), 2);
-                    }
-                    else if (i * j > 2)
-                    {
-                        if (i * j == 0) // Проверка на деление на ноль
-                        {
-                            throw new DivideByZeroException("Деление на ноль в выражении для f при i * j > 2.");
-                        }
-                        return Math.Cos(j) + 1 / Math.Sqrt(i * j);
-                    }
+                    throw new DivideByZeroException("Деление на ноль в выражении для f при x * y == 2.");
                 }
+                return (x * x + 24) / Math.Pow((1 + x), 2);
             }
-
-            return 0; // Возврат значения по умолчанию
+            else // x * y > 2
+            {
+                if (x * y == 0)
+                {
+                    throw new DivideByZeroException("Деление на ноль в выражении для f при x * y > 2.");
+                }
+                return Math.Cos(y) + 1 / Math.Sqrt(x * y);
+            }
         }
 
-        public double Calculate_g(double xn, double xk, double yn, double yk, double n, double t)
+        public double Calculate_g(double x, double y)
         {
-            // Проверка входных параметров
-            if (n <= 0 || t <= 0)
+            if (x * y < 2)
             {
-                throw new ArgumentOutOfRangeException("Шаги n и t должны быть положительными.");
-            }
-
-            for (double x = xn; x < xk; x += n)
-            {
-                for (double y = yn; y < yk; y += t)
+                if (x - y - 1 == 0)
                 {
-                    if (x * y < 2)
-                    {
-                        if (x - y - 1 == 0) // Проверка на деление на ноль
-                        {
-                            throw new DivideByZeroException("Деление на ноль в выражении для g при x * y < 2.");
-                        }
-                        return 1 / (x - y - 1);
-                    }
-                    if (x * y == 2)
-                    {
-                        if (1 + x == 0) // Проверка на деление на ноль
-                        {
-                            throw new DivideByZeroException("Деление на ноль в выражении для g при x * y == 2.");
-                        }
-                        return Math.Sin((x * y + 1 - x * x) / (1 + x));
-                    }
-                    if (y * y > 2)
-                    {
-                        return Math.Abs(2 * Math.Pow(x * y, 2) - 1 - x);
-                    }
+                    throw new DivideByZeroException("Деление на ноль в выражении для g при x * y < 2.");
                 }
+                return 1 / (x - y - 1);
             }
-            return 0;
+            else if (x * y == 2)
+            {
+                if (1 + x == 0)
+                {
+                    throw new DivideByZeroException("Деление на ноль в выражении для g при x * y == 2.");
+                }
+                return Math.Sin((x * y + 1 - x * x) / (1 + x));
+            }
+            else // y * y > 2
+            {
+                return Math.Abs(2 * Math.Pow(x * y, 2) - 1 - x);
+            }
         }
     }
 }
+
