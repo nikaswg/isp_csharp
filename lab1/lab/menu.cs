@@ -99,40 +99,70 @@ namespace lab
             return a;
         }
 
-        public class NoPositiveElementEx : Exception 
+        public class NoDiv2ElementEx : Exception
         {
-            public NoPositiveElementEx(): base("Положительный элемент не найдем в массиве.") { }
-        }
-
-        public class NoEvenAndPosElementEx : Exception
-        {
-            public NoEvenAndPosElementEx(): base("Четный и кратный двум элемент не найден в массиве") { }
+            public NoDiv2ElementEx() : base("Число, кратное двум, не найдено в массиве.") { }
         }
 
         public class Div2ElementIsLastEx : Exception
         {
-            public Div2ElementIsLastEx() : base("Четный и кратный двум элемент является последним в векторе => после него ничего нет") { }
+            public Div2ElementIsLastEx() : base("Число, кратное двум, является последним в векторе => после него ничего нет.") { }
         }
 
-
-        public int vector_1(int n, int[] a)
+        public class NoPositiveElementAfterDiv2Ex : Exception
         {
+            public NoPositiveElementAfterDiv2Ex() : base("Нет положительных элементов после первого элемента, кратного двум.") { }
+        }
+
+            public int FindMinPositiveAfterDiv2(int n, int[] a)
             {
-                int Pos_first_positive = -1;
+                int firstDiv2Index = -1;
+
+                // Find the first element that is divisible by 2
                 for (int i = 0; i < n; i++)
                 {
-                    if (a[i] > 0) 
-                    {  
-                        Pos_first_positive = i;
+                    if (a[i] % 2 == 0)
+                    {
+                        firstDiv2Index = i;
                         break;
                     }
                 }
-                if ( Pos_first_positive == -1 )
+
+                // If no divisible by 2 element found
+                if (firstDiv2Index == -1)
                 {
-                    throw new NoPositiveElementEx();
+                    throw new NoDiv2ElementEx();
                 }
+
+                // Check if the divisible by 2 element is the last one
+                if (firstDiv2Index == n - 1)
+                {
+                    throw new Div2ElementIsLastEx();
+                }
+
+                // Find the minimum positive element after the found divisible by 2 element
+                int minPositive = int.MaxValue;
+                bool hasPositive = false;
+
+                for (int i = firstDiv2Index + 1; i < n; i++)
+                {
+                    if (a[i] > 0)
+                    {
+                        hasPositive = true;
+                        if (a[i] < minPositive)
+                        {
+                            minPositive = a[i];
+                        }
+                    }
+                }
+
+                // If no positive elements found after the first divisible by 2 element
+                if (!hasPositive)
+                {
+                    throw new NoPositiveElementAfterDiv2Ex();
+                }
+
+                return minPositive;
             }
-            return 0;
         }
     }
-}

@@ -27,3 +27,4 @@ C:\Users\Никита\Downloads\isp_csharp\lab1\lab\obj\Debug\net8.0\refint\lab.
 C:\Users\Никита\Downloads\isp_csharp\lab1\lab\obj\Debug\net8.0\lab.pdb
 C:\Users\Никита\Downloads\isp_csharp\lab1\lab\obj\Debug\net8.0\lab.genruntimeconfig.cache
 C:\Users\Никита\Downloads\isp_csharp\lab1\lab\obj\Debug\net8.0\ref\lab.dll
+C:\Users\User\Downloads\isp_csharp\lab1\lab\obj\Debug\net8.0\lab.sourcelink.json

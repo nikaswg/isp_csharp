@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq.Expressions;
+using static lab.menu;
 
 namespace lab
 {
@@ -35,23 +36,31 @@ namespace lab
                             switch (choose_mass)
                             {
                                 case "1":
-                                    try
-                                    {
                                         Console.WriteLine("Вы выбрали Вектор 1.");
                                         int n = _menu.enter_n();
                                         int[] a = new int[n];
                                         a = _menu.enter_vector(n);
-                                        int c = _menu.vector_1(n, a);
-                                        Console.WriteLine($"Минимальное положительное значение: {c}");
-                                    }
-                                    catch (menu.NoPositiveElementEx ex)
-                                    {
-                                        Console.WriteLine("Нету положительных элементов в векторе.");
-                                    }
-                                    break;
+                                        try
+                                        {
+                                            int c = _menu.FindMinPositiveAfterDiv2(n, a);
+                                            Console.WriteLine($"Минимальное положительное значение: {c}");
+                                        }
+                                        catch (NoDiv2ElementEx ex)
+                                        {
+                                            Console.WriteLine(ex.Message); // "Число, кратное двум, не найдено в массиве."
+                                        }
+                                        catch (Div2ElementIsLastEx ex)
+                                        {
+                                            Console.WriteLine(ex.Message); // "Число, кратное двум, является последним в векторе => после него ничего нет."
+                                        }
+                                        catch (NoPositiveElementAfterDiv2Ex ex)
+                                        {
+                                            Console.WriteLine(ex.Message); // "Нет положительных элементов после первого элемента, кратного двум."
+                                        }
+                                        break;
                                 case "2":
                                     Console.WriteLine("Вы выбрали Вектор 2.");
-                                    // Add additional functionality for Вектор 2 here
+                                    
                                     break;
                                 case "3":
                                     Console.WriteLine("Вы выбрали Матрицу.");
