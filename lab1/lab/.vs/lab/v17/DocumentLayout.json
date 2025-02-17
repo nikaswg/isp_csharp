@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab1\\lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\downloads\\isp_csharp\\lab1\\lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab1\\lab\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|solutionrelative:calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab1\\lab\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|solutionrelative:calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0C9ACA-BE00-4D88-A850-6BB36503CC40}|lab.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "menu.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\menu.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\menu.cs",
               "RelativeDocumentMoniker": "menu.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\menu.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\menu.cs",
               "RelativeToolTip": "menu.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAAwL0AAAAdAAAAAAAAAA==",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAYwP4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T17:41:44.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "calc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\calc.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\calc.cs",
               "RelativeDocumentMoniker": "calc.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\calc.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\calc.cs",
               "RelativeToolTip": "calc.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T09:52:04.67Z"
+              "WhenOpened": "2025-02-14T09:52:04.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab1\\lab\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0438\u043A\u0438\u0442\u0430\\Downloads\\isp_csharp\\lab1\\lab\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwEgAAAA4AAAAAAAAAA==",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwHIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T09:15:26.425Z",
               "EditorCaption": ""

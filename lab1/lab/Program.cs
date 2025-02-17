@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
+using System.Runtime.ExceptionServices;
+using System.Runtime.InteropServices;
 using static lab.menu;
 
 namespace lab
@@ -16,6 +18,7 @@ namespace lab
                 Console.WriteLine("МЕНЮ");
                 Console.WriteLine("Пункт 1: Вычисление функций.");
                 Console.WriteLine("Пункт 2: Работа с массивами.");
+                Console.WriteLine("Пункт 3: Выход.");
 
                 string? choose = Console.ReadLine();
 
@@ -74,7 +77,31 @@ namespace lab
                                     break;
                                 case "3":
                                     Console.WriteLine("Вы выбрали Матрицу.");
-                                    // Add additional functionality for Матрица here
+                                    n = _menu.enter_n();
+                                    int[][] m2 = new int[n][];
+                                    Console.WriteLine("Введите элементы матрицы:");
+                                    m2 = _menu.enter_matr1(n);
+                                    if (n % 2 == 0)
+                                    {
+                                        Console.WriteLine("Невозможно поменять местами маскимальный элемент среди стоящих на главной и побочной диагоналях с элементом стоящим на пересечении этих диагоналей, так как нету элемента на пересечении диагоналей.");
+                                        break;
+                                    }
+                                    else
+                                    {
+                                        int max = _menu.Max_element_in_diagonals(n, m2);
+                                        Console.WriteLine($"Максимальное значение на диагоналях: {max}");
+                                        int[][] m3 = new int[n][];
+                                        m3 = _menu.Swap_in_matrix(n,ref m2);
+                                        m2 = m3;
+                                        for (int i = 0; i < n; i++)
+                                        {
+                                            for (int j = 0; j < n; j++)
+                                            {
+                                                Console.Write($"{m2[i][j]} ");
+                                            }
+                                            Console.WriteLine() ;
+                                        }
+                                    }
                                     break;
                                 default:
                                     Console.WriteLine("Некорректный выбор. Повторите попытку.");
@@ -84,6 +111,9 @@ namespace lab
                             break;
                         }
                         break; // Exit the outer switch case for option 2
+                    case "3":
+                        return;
+
                     default:
                         Console.WriteLine("Некорректный выбор. Повторите попытку.");
                         break; // Continue the outer loop to prompt again

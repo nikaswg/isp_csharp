@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json.Serialization.Metadata;
 using System.Threading.Tasks;
@@ -198,6 +199,63 @@ namespace lab
                 }
             }
             return b;
+        }
+
+        public int Max_element_in_diagonals(int n, int[][] c)
+        {
+            int max = int.MinValue;    
+            for (int i = 0 ;i < n; i++)
+            {
+                if (c[i][i] > max)
+                {
+                    max = c[i][i];
+                }
+            }
+            for (int i = 0; i < n; i++)
+            {
+                if (c[i][n - 1 - i] > max)
+                {
+                    max = c[i][n - 1 - i];
+                }
+            }
+            return max;
+        }
+
+        public int[][] Swap_in_matrix(int n, ref int[][] c)
+        {
+            int center_index = n / 2;
+            int max_element_index = 0;
+            bool InHeadDiagonal = false;    
+            int max = Max_element_in_diagonals(n, c);
+            for (int i = 0; i < n; i++)
+            {
+                if (c[i][i] == max)
+                {
+                    max_element_index = i;
+                    InHeadDiagonal = true;  
+                }
+            }
+            for (int i =  0; i < n; i++)
+            {
+                if (c[i][n - 1 - i] == max)
+                {
+                    max_element_index = i;
+                    InHeadDiagonal = false;  
+                }
+            }
+            if (InHeadDiagonal)
+            {
+                int temp = c[max_element_index][max_element_index];
+                c[max_element_index][max_element_index] = c[center_index][center_index]; 
+                c[center_index][center_index] = temp;
+            }
+            else
+            {
+                int temp = c[max_element_index][n - 1 - max_element_index];
+                c[max_element_index][n - 1 - max_element_index] = c[center_index][center_index];
+                c[center_index][center_index] = temp;
+            }
+            return c;
         }
     }
 }
