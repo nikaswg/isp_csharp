@@ -114,55 +114,90 @@ namespace lab
             public NoPositiveElementAfterDiv2Ex() : base("Нет положительных элементов после первого элемента, кратного двум.") { }
         }
 
-            public int FindMinPositiveAfterDiv2(int n, int[] a)
-            {
-                int firstDiv2Index = -1;
+        public int FindMinPositiveAfterDiv2(int n, int[] a)
+        {
+            int firstDiv2Index = -1;
 
-                // Find the first element that is divisible by 2
+            // Find the first element that is divisible by 2
+            for (int i = 0; i < n; i++)
+            {
+                if (a[i] % 2 == 0)
+                {
+                    firstDiv2Index = i;
+                    break;
+                }
+            }
+
+            // If no divisible by 2 element found
+            if (firstDiv2Index == -1)
+            {
+                throw new NoDiv2ElementEx();
+            }
+
+            // Check if the divisible by 2 element is the last one
+            if (firstDiv2Index == n - 1)
+            {
+                throw new Div2ElementIsLastEx();
+            }
+
+            // Find the minimum positive element after the found divisible by 2 element
+            int minPositive = int.MaxValue;
+            bool hasPositive = false;
+
+            for (int i = firstDiv2Index + 1; i < n; i++)
+            {
+                if (a[i] > 0)
+                {
+                    hasPositive = true;
+                    if (a[i] < minPositive)
+                    {
+                        minPositive = a[i];
+                    }
+                }
+            }
+
+            // If no positive elements found after the first divisible by 2 element
+            if (!hasPositive)
+            {
+                throw new NoPositiveElementAfterDiv2Ex();
+            }
+
+            return minPositive;
+        }
+
+        public int[][] enter_matr1(int n)
+        {
+            int[][] a = new int[n][];
+            for (int i = 0; i < n; i++)
+            {
+                string input = Console.ReadLine();
+                string[] elements = input.Split(' ');
+                a[i] = new int[n]; 
+                for (int j = 0; j < n; j++)
+                {
+                    a[i][j] = int.Parse(elements[j]);
+                }
+            }
+            return a;
+        }
+
+        public int[] Create_Vector_from_matrix(int n, int[][] a)
+        {
+            int[] b = new int[n];
+            int min = 0;
+            for (int j = 0; j < n; j++)
+            {
+                min = int.MaxValue;
                 for (int i = 0; i < n; i++)
                 {
-                    if (a[i] % 2 == 0)
+                    if (a[i][j] < min)
                     {
-                        firstDiv2Index = i;
-                        break;
+                        min = a[i][j];
                     }
+                    b[j] = min;
                 }
-
-                // If no divisible by 2 element found
-                if (firstDiv2Index == -1)
-                {
-                    throw new NoDiv2ElementEx();
-                }
-
-                // Check if the divisible by 2 element is the last one
-                if (firstDiv2Index == n - 1)
-                {
-                    throw new Div2ElementIsLastEx();
-                }
-
-                // Find the minimum positive element after the found divisible by 2 element
-                int minPositive = int.MaxValue;
-                bool hasPositive = false;
-
-                for (int i = firstDiv2Index + 1; i < n; i++)
-                {
-                    if (a[i] > 0)
-                    {
-                        hasPositive = true;
-                        if (a[i] < minPositive)
-                        {
-                            minPositive = a[i];
-                        }
-                    }
-                }
-
-                // If no positive elements found after the first divisible by 2 element
-                if (!hasPositive)
-                {
-                    throw new NoPositiveElementAfterDiv2Ex();
-                }
-
-                return minPositive;
             }
+            return b;
         }
     }
+}

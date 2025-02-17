@@ -60,7 +60,17 @@ namespace lab
                                         break;
                                 case "2":
                                     Console.WriteLine("Вы выбрали Вектор 2.");
-                                    
+                                    n = _menu.enter_n();
+                                    int[][] m1 = new int[n][];
+                                    Console.WriteLine("Введите элементы матрицы:");
+                                    m1 = _menu.enter_matr1(n);
+                                    int[] b = new int[n];
+                                    b = _menu.Create_Vector_from_matrix(n, m1);
+                                    for (int i = 0; i < n; i++)
+                                    {
+                                        Console.Write($"{b[i]} ");
+                                    }
+                                    Console.WriteLine();
                                     break;
                                 case "3":
                                     Console.WriteLine("Вы выбрали Матрицу.");
