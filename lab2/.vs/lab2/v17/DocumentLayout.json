@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\medicineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:medicineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:genericlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:iordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\user\\downloads\\isp_csharp\\lab2\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\GenericList.cs",
+              "RelativeDocumentMoniker": "GenericList.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\GenericList.cs",
+              "RelativeToolTip": "GenericList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:21:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\IOrderManager.cs",
+              "RelativeDocumentMoniker": "IOrderManager.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\IOrderManager.cs",
+              "RelativeToolTip": "IOrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:20:51.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "Pharmacy.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Pharmacy.cs",
+              "RelativeToolTip": "Pharmacy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:19:53.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicineOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\MedicineOrder.cs",
+              "RelativeDocumentMoniker": "MedicineOrder.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\MedicineOrder.cs",
+              "RelativeToolTip": "MedicineOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:19:34.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:19:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:18:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Medicine.cs",
+              "RelativeDocumentMoniker": "Medicine.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Medicine.cs",
+              "RelativeToolTip": "Medicine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:18:03.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv4AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:17:49.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
