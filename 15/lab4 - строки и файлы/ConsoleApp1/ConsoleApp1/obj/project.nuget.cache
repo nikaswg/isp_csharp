@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KLSJuf+5CC0=",
+  "dgSpecHash": "InOjVhWrqxM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Никита\\Downloads\\isp_csharp\\15\\lab4 - строки и файлы\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab4 - строки и файлы\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Никита\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

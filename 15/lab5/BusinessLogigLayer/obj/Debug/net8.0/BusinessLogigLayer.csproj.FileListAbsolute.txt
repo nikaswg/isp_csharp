@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\bin\Debug\net8.0\BusinessLogigLayer.deps.json
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\bin\Debug\net8.0\BusinessLogigLayer.dll
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\bin\Debug\net8.0\BusinessLogigLayer.pdb
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.AssemblyInfo.cs
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.sourcelink.json
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\Business.44FFB69F.Up2Date
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.dll
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\refint\BusinessLogigLayer.dll
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\BusinessLogigLayer.pdb
+C:\Users\User\Downloads\isp_csharp\15\lab5\BusinessLogigLayer\obj\Debug\net8.0\ref\BusinessLogigLayer.dll
