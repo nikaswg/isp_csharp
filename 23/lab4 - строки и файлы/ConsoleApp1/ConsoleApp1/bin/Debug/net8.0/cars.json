@@ -1,0 +1,17 @@
+[
+  {
+    "NameOwner": "\u0418\u0432\u0430\u043D\u043E\u0432 \u0418.\u0418.",
+    "ModelCar": "Toyota",
+    "NumberCar": "A123BC"
+  },
+  {
+    "NameOwner": "\u041F\u0435\u0442\u0440\u043E\u0432 \u041F.\u041F.",
+    "ModelCar": "BMW",
+    "NumberCar": "B456DE"
+  },
+  {
+    "NameOwner": "\u0421\u0438\u0434\u043E\u0440\u043E\u0432 \u0421.\u0421.",
+    "ModelCar": "Toyota",
+    "NumberCar": "C789FG"
+  }
+]

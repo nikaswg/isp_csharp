@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\stringprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\stringprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\jsonprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\jsonprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\FileProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\FileProcessor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:34:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\JsonProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\JsonProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\JsonProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\JsonProcessor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:34:34.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:34:12.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\StringProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StringProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\23\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\StringProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\StringProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:32:43.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
