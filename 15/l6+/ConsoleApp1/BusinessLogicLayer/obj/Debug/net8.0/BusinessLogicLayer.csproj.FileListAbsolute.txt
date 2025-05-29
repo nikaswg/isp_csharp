@@ -1,0 +1,16 @@
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.deps.json
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\bin\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.sourcelink.json
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\Business.450209FB.Up2Date
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.dll
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\refint\BusinessLogicLayer.dll
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\BusinessLogicLayer.pdb
+C:\Users\Nikita\Downloads\isp_csharp\15\l6+\ConsoleApp1\BusinessLogicLayer\obj\Debug\net8.0\ref\BusinessLogicLayer.dll
