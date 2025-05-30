@@ -1,4 +1,4 @@
-﻿public class SportShop : IOrderManager
+﻿public class SportShop : IOrderManager //наследование
 {
     private static int orderCount = 0;
     private List<Order> orders = new List<Order>();

@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8964D17B-A430-4D17-B069-F0833977AE65}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8964D17B-A430-4D17-B069-F0833977AE65}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\businesslogiclayer\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,10 +39,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\businesslogiclayer\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +53,6 @@
       "RelativeMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8964D17B-A430-4D17-B069-F0833977AE65}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8964D17B-A430-4D17-B069-F0833977AE65}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\businesslogiclayer\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,28 +65,12 @@
       "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\ticketextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\datalayer\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DD49A3-BCEB-4256-A0B7-A4D5954B5178}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A46B10EC-02E1-43E9-B3FD-4AAC8DB8F57C}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\15\\l6\u002B\\consoleapp1\\businesslogiclayer\\attractionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,148 +84,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Tickets [\u0414\u0430\u043D\u043D\u044B\u0435]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Tickets.sql",
-              "ToolTip": "dbo.Tickets [\u0414\u0430\u043D\u043D\u044B\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-29T01:01:36.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Employees [\u0414\u0430\u043D\u043D\u044B\u0435]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Employees.sql",
-              "ToolTip": "dbo.Employees [\u0414\u0430\u043D\u043D\u044B\u0435]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-29T01:00:08.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TicketsService.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\TicketsService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\TicketsService.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\TicketsService.cs*",
-              "RelativeToolTip": "BusinessLogicLayer\\TicketsService.cs*",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwEEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:38:11.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\Employee.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Employee.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\Employee.cs",
-              "RelativeToolTip": "DataLayer\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:27:22.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ReportService.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\ReportService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\ReportService.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\ReportService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\ReportService.cs",
-              "ViewState": "AgIAAKMBAAAAAAAAAAAswK0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:38:50.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DataLayer\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\AppDbContext.cs",
               "RelativeToolTip": "DataLayer\\AppDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T23:05:18.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TicketExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketExtensions.cs",
-              "RelativeDocumentMoniker": "DataLayer\\TicketExtensions.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketExtensions.cs",
-              "RelativeToolTip": "DataLayer\\TicketExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T00:31:23.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EmployeesService.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\EmployeesService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\EmployeesService.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\EmployeesService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\EmployeesService.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAcwH8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:37:14.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-28T23:24:39.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppService.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\AppService.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\AppService.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\AppService.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\AppService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T00:00:06.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAABgDAAAAAAAAAAASwCUDAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:01:33.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\Ticket.cs",
               "RelativeDocumentMoniker": "DataLayer\\Ticket.cs",
@@ -238,72 +114,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "DataLayer\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\UnitOfWork.cs",
-              "RelativeToolTip": "DataLayer\\UnitOfWork.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:27:02.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TicketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\TicketRepository.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketRepository.cs",
-              "RelativeToolTip": "DataLayer\\TicketRepository.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:26:45.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "DataLayer\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\EmployeeRepository.cs",
               "RelativeToolTip": "DataLayer\\EmployeeRepository.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T23:25:32.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AttractionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\AttractionRepository.cs",
-              "RelativeDocumentMoniker": "DataLayer\\AttractionRepository.cs",
-              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\AttractionRepository.cs",
-              "RelativeToolTip": "DataLayer\\AttractionRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:26:24.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\BaseRepository.cs",
               "RelativeDocumentMoniker": "DataLayer\\BaseRepository.cs",
               "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\BaseRepository.cs",
               "RelativeToolTip": "DataLayer\\BaseRepository.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAiwFAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T23:25:04.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
+              "Title": "AttractionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\AttractionRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\AttractionRepository.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\AttractionRepository.cs",
+              "RelativeToolTip": "DataLayer\\AttractionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:26:24.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Attraction.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\Attraction.cs",
               "RelativeDocumentMoniker": "DataLayer\\Attraction.cs",
@@ -316,6 +166,146 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAALUBAAAAAAAAAAAMwNgCAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:01:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketExtensions.cs",
+              "RelativeDocumentMoniker": "DataLayer\\TicketExtensions.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketExtensions.cs",
+              "RelativeToolTip": "DataLayer\\TicketExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:31:23.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Tickets.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Tickets.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Tickets.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T01:01:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\ReportService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\ReportService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\ReportService.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAswK0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:38:50.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\Employee.cs",
+              "RelativeToolTip": "DataLayer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:27:22.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketsService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\TicketsService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\TicketsService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\TicketsService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\TicketsService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:38:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Employees.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Lunopark/True/SqlTable/dbo.Employees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T01:00:08.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\EmployeesService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\EmployeesService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\EmployeesService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:37:14.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-28T23:24:39.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\AppService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\AppService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\AppService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\AppService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:00:06.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataLayer\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\UnitOfWork.cs",
+              "RelativeToolTip": "DataLayer\\UnitOfWork.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:27:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\DataLayer\\TicketRepository.cs",
+              "RelativeToolTip": "DataLayer\\TicketRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:26:45.39Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
               "Title": "AttractionsService.cs",
               "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\15\\l6\u002B\\ConsoleApp1\\BusinessLogicLayer\\AttractionsService.cs",
@@ -324,8 +314,7 @@
               "RelativeToolTip": "BusinessLogicLayer\\AttractionsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T23:37:50.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T23:37:50.839Z"
             }
           ]
         }
