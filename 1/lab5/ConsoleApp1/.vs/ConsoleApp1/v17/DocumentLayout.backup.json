@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631FFB02-ACDF-47A5-A281-1ECFBC1AC55E}|ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab5\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631FFB02-ACDF-47A5-A281-1ECFBC1AC55E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CB5C52-C055-4ADE-ACE8-F3FE02C2E5CA}|..\\DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab5\\datalayer\\spacemission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CB5C52-C055-4ADE-ACE8-F3FE02C2E5CA}|..\\DataLayer\\DataLayer.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab5\\datalayer\\celestialbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631FFB02-ACDF-47A5-A281-1ECFBC1AC55E}|ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab5\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{631FFB02-ACDF-47A5-A281-1ECFBC1AC55E}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Spacecraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikita\\Downloads\\isp_csharp\\25\\lab5\\DataLayer\\Composer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikita\\Downloads\\isp_csharp\\25\\lab5\\DataLayer\\MusicalInstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpaceMission.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\DataLayer\\SpaceMission.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\SpaceMission.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\DataLayer\\SpaceMission.cs",
+              "RelativeToolTip": "..\\DataLayer\\SpaceMission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:28:45.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CelestialBody.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\DataLayer\\CelestialBody.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\CelestialBody.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\DataLayer\\CelestialBody.cs",
+              "RelativeToolTip": "..\\DataLayer\\CelestialBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:28:41.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Composer.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\25\\lab5\\DataLayer\\Composer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\25\\lab5\\DataLayer\\Composer.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\25\\lab5\\DataLayer\\Composer.cs",
+              "RelativeToolTip": "..\\..\\..\\25\\lab5\\DataLayer\\Composer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:47:47.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicalInstrument.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\25\\lab5\\DataLayer\\MusicalInstrument.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\25\\lab5\\DataLayer\\MusicalInstrument.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\25\\lab5\\DataLayer\\MusicalInstrument.cs",
+              "RelativeToolTip": "..\\..\\..\\25\\lab5\\DataLayer\\MusicalInstrument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:47:45.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Planet.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Planet.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Planet.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Planet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:31:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spacecraft.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Spacecraft.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Spacecraft.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Spacecraft.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\User\\Downloads\\isp_csharp\\15\\lab5\\DataLayer\\Spacecraft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:31:14.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T09:07:04.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab5\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:07:10.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

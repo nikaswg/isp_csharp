@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\showroon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:showroon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\usedcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:usedcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab2\\ivehicledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:ivehicledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:23:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVehicleDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\IVehicleDisplay.cs",
+              "RelativeDocumentMoniker": "IVehicleDisplay.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\IVehicleDisplay.cs",
+              "RelativeToolTip": "IVehicleDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:22:47.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:30:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowRoon.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\ShowRoon.cs",
+              "RelativeDocumentMoniker": "ShowRoon.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\ShowRoon.cs",
+              "RelativeToolTip": "ShowRoon.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:30:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsedCars.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\UsedCars.cs",
+              "RelativeDocumentMoniker": "UsedCars.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\UsedCars.cs",
+              "RelativeToolTip": "UsedCars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:30:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:29:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:51:44.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

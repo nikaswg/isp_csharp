@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\jsonprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\jsonprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816351AD-1AF5-4283-8DA4-E463B350D249}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\TextProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TextProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\TextProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\TextProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:32:24.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:32:18.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Menu.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Menu.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Menu.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:32:12.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Teacher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\Teacher.cs",
+              "RelativeToolTip": "ConsoleApp1\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:31:58.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\JsonProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\JsonProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\JsonProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\JsonProcessor.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:55:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FileProcessor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\1\\lab4 - \u0441\u0442\u0440\u043E\u043A\u0438 \u0438 \u0444\u0430\u0439\u043B\u044B\\ConsoleApp1\\ConsoleApp1\\FileProcessor.cs",
+              "RelativeToolTip": "ConsoleApp1\\FileProcessor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:53:08.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "Address": "ул. Ленина, 10",
+    "NumberOfRooms": 2,
+    "PhoneNumberOwner": "111-11-11"
+  },
+  {
+    "Address": "пр. Мира, 5",
+    "NumberOfRooms": 3,
+    "PhoneNumberOwner": "222-22-22"
+  },
+  {
+    "Address": "ул. Гагарина, 15",
+    "NumberOfRooms": 2,
+    "PhoneNumberOwner": "333-33-33"
+  },
+  {
+    "Address": "ул. Садовая, 3",
+    "NumberOfRooms": 1,
+    "PhoneNumberOwner": "444-44-44"
+  },
+  {
+    "Address": "пр. Космонавтов, 20",
+    "NumberOfRooms": 3,
+    "PhoneNumberOwner": "555-55-55"
+  }
+]

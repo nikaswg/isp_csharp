@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\iuniversityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:iuniversityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\researchlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:researchlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\coursr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:coursr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|c:\\users\\nikita\\downloads\\isp_csharp\\2\\lab2\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C38EA02-6271-4870-AA6B-7053C8141E02}|lab2.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUniversityService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\IUniversityService.cs",
+              "RelativeDocumentMoniker": "IUniversityService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\IUniversityService.cs",
+              "RelativeToolTip": "IUniversityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:16:11.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResearchLab.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\ResearchLab.cs",
+              "RelativeDocumentMoniker": "ResearchLab.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\ResearchLab.cs",
+              "RelativeToolTip": "ResearchLab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:15:54.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coursr.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Coursr.cs",
+              "RelativeDocumentMoniker": "Coursr.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Coursr.cs",
+              "RelativeToolTip": "Coursr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:15:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:15:19.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Professor.cs",
+              "RelativeDocumentMoniker": "Professor.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Professor.cs",
+              "RelativeToolTip": "Professor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:15:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:14:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:14:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\University.cs",
+              "RelativeDocumentMoniker": "University.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\University.cs",
+              "RelativeToolTip": "University.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:14:23.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\Downloads\\isp_csharp\\2\\lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:51:44.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
